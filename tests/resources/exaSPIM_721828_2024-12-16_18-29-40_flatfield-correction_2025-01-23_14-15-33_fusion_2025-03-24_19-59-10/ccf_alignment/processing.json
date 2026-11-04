@@ -1,0 +1,42 @@
+{
+   "describedBy": "https://raw.githubusercontent.com/AllenNeuralDynamics/aind-data-schema/main/src/aind_data_schema/core/processing.py",
+   "schema_version": "1.1.4",
+   "processing_pipeline": {
+      "data_processes": [
+         {
+            "name": "Image importing",
+            "software_version": "0.0.1",
+            "start_date_time": "2025-11-11T00:00:18.722260Z",
+            "end_date_time": "2025-11-11T00:00:20.422119Z",
+            "input_location": "s3://aind-open-data/exaSPIM_721828_2024-12-16_18-29-40_flatfield-correction_2025-01-23_14-15-33_fusion_2025-03-24_19-59-10/fused.zarr/6",
+            "output_location": "s3://aind-open-data/exaSPIM_721828_2024-12-16_18-29-40_flatfield-correction_2025-01-23_14-15-33_fusion_2025-03-24_19-59-10/fused.zarr/6",
+            "code_url": "https://github.com/AllenNeuralDynamics/aind-exaspim-ccf-registration.git",
+            "code_version": "0.0.1",
+            "parameters": {},
+            "outputs": {},
+            "notes": "Importing fused data for alignment",
+            "resources": null
+         },
+         {
+            "name": "Image atlas alignment",
+            "software_version": "0.0.1",
+            "start_date_time": "2025-11-11T00:00:20.423644Z",
+            "end_date_time": "2025-11-11T00:25:27.806822Z",
+            "input_location": "s3://aind-open-data/exaSPIM_721828_2024-12-16_18-29-40_flatfield-correction_2025-01-23_14-15-33_fusion_2025-03-24_19-59-10/fused.zarr/6",
+            "output_location": "/tmp/nxf.D053ZNrniw/capsule/results/ccf_alignment/",
+            "code_url": "https://github.com/AllenNeuralDynamics/aind-exaspim-ccf-registration.git",
+            "code_version": "0.0.1",
+            "parameters": {},
+            "outputs": {},
+            "notes": "Template based registration: sample -> template -> CCF",
+            "resources": null
+         }
+      ],
+      "processor_full_name": "Di Wang",
+      "pipeline_version": "0.0.1",
+      "pipeline_url": "https://codeocean.allenneuraldynamics.org/capsule/1087961/tree",
+      "note": "Metadata for the CCF Atlas Registration step"
+   },
+   "analyses": [],
+   "notes": "This processing only contains metadata of ccf registration             and needs to be compiled with other steps at the end"
+}

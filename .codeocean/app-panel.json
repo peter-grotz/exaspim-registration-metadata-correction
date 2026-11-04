@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"parameters": [
+		{
+			"id": "mode00000000000001",
+			"name": "mode",
+			"description": "dry_run (default), write, or restore",
+			"type": "text",
+			"value_type": "string"
+		},
+		{
+			"id": "subjects0000000001",
+			"name": "subjects",
+			"description": "Comma-separated subjects, e.g. 841260; blank for all planned",
+			"type": "text",
+			"value_type": "string"
+		},
+		{
+			"id": "dryrundir000000001",
+			"name": "dry_run_dir",
+			"description": "Dry-run results to write or restore, e.g. /data/<dry run asset>",
+			"type": "text",
+			"value_type": "string"
+		}
+	]
+}

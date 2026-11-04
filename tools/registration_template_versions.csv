@@ -1,0 +1,70 @@
+subject,registered_dataset,transforms_written_utc,template_to_ccf_used,evidence
+686951,exaSPIM_686951_2025-02-25_09-45-02_flatfield-correction_2025-06-10_06-58-54_fusion_2025-08-01_01-11-24,2025-08-03 19:52,v1.4,production runs active then had only v1.4 attached
+747807,exaSPIM_747807_2024-11-27_12-22-50_flatfield-correction_2024-12-03_18-41-22_fusion_2025-02-06_17-20-50,2025-08-03 23:37,v1.4,production run active then had only v1.4 attached
+754612,exaSPIM_754612_2025-04-16_14-18-01_flatfield-correction_2025-04-23_17-08-12_fusion_2025-07-31_23-56-29,2025-08-06 19:09,v1.4,production runs active then had only v1.4 attached
+763259,exaSPIM_763259_2025-07-02_17-32-40_processed_2025-07-17_11-39-45,2025-08-17 02:10,v1.4,production run ea5b05ec: only v1.4 attached
+782742,exaSPIM_782742_2025-05-21_16-20-13_processed_2025-07-07_12-35-10,2025-08-29 03:51,v1.4,production run e02ee569: only v1.4 attached
+759925,exaSPIM_759925_2025-06-11_16-28-54_processed_2025-07-14_13-04-22,2025-09-17 04:49,v1.4,production run 640506b1: only v1.4 attached
+784896,exaSPIM_784896_2025-08-19_10-48-12_processed_2025-08-26_12-28-02,2025-09-23 03:38,v1.4,production run 6e992f5d: only v1.4 attached
+750318,exaSPIM_750318_2025-02-03_12-13-09_flatfield-correction_2025-05-22_17-06-16_fusion_2025-05-22_17-40-43,2025-09-27 00:57,v1.4,production run e1e594ce: only v1.4 attached
+754611,exaSPIM_754611_2025-04-01_17-31-11_flatfield-correction_2025-05-22_17-06-16_fusion_2025-05-22_17-40-43,2025-10-01 02:50,v1.4,production run cbe3066b: pipeline version c85aee6 mounts v1.4 at the v1.4 path
+730223,exaSPIM_730223_2025-04-25_14-44-58_flatfield-correction_2025-05-07_17-51-56_fusion_2025-07-10_16-40-14,2025-10-01 07:37,v1.4,production run ae2233bf: pipeline version c85aee6 mounts v1.4 at the v1.4 path
+784896,exaSPIM_784896_2025-08-19_10-48-12_processed_2025-10-02_09-37-12,2025-10-06 16:20,unconfirmed,no run found in any pipeline or capsule at that time
+720164,exaSPIM_720164_2025-07-07_17-55-45_processed_2025-07-15_16-22-02,2025-10-11 06:36,v1.5,production run 95ac688d: pipeline version cc121c5 mounts v1.5 at the v1.4 path
+652779,exaSPIM_652779_2025-07-31_14-14-13_processed_2025-08-08_13-49-12,2025-10-14 14:29,v1.5,production run f6e8aa94: pipeline version cc121c5 mounts v1.5 at the v1.4 path
+697837,exaSPIM_697837_2025-06-24_16-55-18_processed_2025-07-22_08-51-22,2025-10-14 16:08,v1.5,production run d28eccd2: pipeline version cc121c5 mounts v1.5 at the v1.4 path
+751474,exaSPIM_751474_2025-05-06_16-04-07_processed_2025-07-31_18-16-21,2025-10-29 00:27,v1.5,production run 5c2da7ae: pipeline version 1732991 mounts v1.5 at the v1.4 path
+782644,exaSPIM_782644_2025-07-16_11-02-45_processed_2025-07-24_16-05-23,2025-10-29 03:05,v1.5,"both candidate runs (71abee57, e90e001c) mounted v1.5 at the v1.4 path"
+733420,exaSPIM_733420_2024-11-08_10-39-55_flatfield-correction_2025-02-20_19-32-57_fusion_2025-02-20_19-56-19,2025-11-05 07:36,v1.5,production run bfe82ae6: pipeline version 1732991 mounts v1.5 at the v1.4 path
+747820,exaSPIM_747820_2024-12-09_12-59-02_flatfield-correction_2025-02-20_19-32-57_fusion_2025-02-20_19-56-31,2025-11-05 07:37,v1.5,production run 6ac77d0c: pipeline version 1732991 mounts v1.5 at the v1.4 path
+704522,exaSPIM_704522_2024-06-30_15-49-32_flatfield-correction_2024-07-15_13-33-42_fusion_2025-02-06_17-40-49,2025-11-05 14:27,v1.5,production run fb311582: pipeline version 1732991 mounts v1.5 at the v1.4 path
+794491,exaSPIM_794491_2025-10-21_12-31-25_processed_2025-10-26_12-28-14,2025-11-06 05:05,v1.5,production run 03fe65e8: pipeline version 1732991 mounts v1.5 at the v1.4 path
+784666,exaSPIM_784666_2025-07-25_17-36-18_processed_2025-07-31_13-14-58,2025-11-08 06:31,v1.5,production run 6f19ab26: pipeline version 1732991 mounts v1.5 at the v1.4 path
+784802,exaSPIM_784802_2025-09-10_17-08-56_processed_2025-10-07_08-23-01,2025-11-08 07:06,v1.5,production run 13f3e502: pipeline version 1732991 mounts v1.5 at the v1.4 path
+667997,exaSPIM_667997_2025-02-18_11-23-19_flatfield-correction_2025-05-05_01-38-17_fusion_2025-08-01_01-14-10,2025-11-11 01:25,v1.5,production run 5b3ddc81: pipeline version 1732991 mounts v1.5 at the v1.4 path
+703071,exaSPIM_703071_2025-06-20_12-59-07_processed_2025-07-15_20-43-56,2025-11-11 03:02,v1.5,production run ea2ed482: pipeline version 1732991 mounts v1.5 at the v1.4 path
+721828,exaSPIM_721828_2024-12-16_18-29-40_flatfield-correction_2025-01-23_14-15-33_fusion_2025-03-24_19-59-10,2025-11-11 05:06,v1.5,production run 4845fed5: pipeline version 1732991 mounts v1.5 at the v1.4 path
+737826,exaSPIM_737826_2025-06-27_17-19-39_processed_2025-07-18_11-22-09,2025-11-25 03:51,unconfirmed,no run found in any pipeline or capsule at that time
+776235,exaSPIM_776235_2025-07-03_16-09-09_processed_2025-07-10_17-04-44,2025-12-03 12:20,v1.5,production run 79783373: pipeline version fe0fc2e mounts v1.5 at the v1.4 path
+802450,exaSPIM_802450_2025-11-25_16-55-46_processed_2025-12-02_15-17-21,2025-12-18 02:40,v1.5,production run dc81de01: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+701772,exaSPIM_701772_2025-09-16_16-43-43_processed_2025-10-08_17-17-13,2025-12-18 03:57,v1.5,production run 9a249bc2: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+709221,exaSPIM_709221_2025-05-16_12-00-49_processed_2025-06-26_13-51-22,2026-01-07 02:56,v1.5,production run f518870d: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+802449,exaSPIM_802449_2025-12-16_18-17-47_processed_2025-12-19_18-26-11,2026-01-07 05:57,v1.5,production run f265a6d5: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+758972,exaSPIM_758972_2025-11-04_15-00-20_processed_2025-11-09_08-29-12,2026-01-27 15:01,v1.5,production run b339e8dd: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+794495,exaSPIM_794495_2026-01-21_14-25-07_processed_2026-01-29_22-02-08,2026-02-05 05:50,v1.5,production run 9fe84909: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+744783,exaSPIM_744783_2025-04-08_16-41-13_flatfield-correction_2025-04-21_15-43-09_fusion_2025-08-01_16-16-19,2026-02-13 22:34,v1.5,production run 397029da: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+794493,exaSPIM_794493_2025-10-17_15-13-31_processed_2025-10-22_19-15-44,2026-02-14 01:07,v1.5,production run 5e8aa4f8: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+718162,exaSPIM_718162_2026-01-29_19-28-50_processed_2026-02-15_23-47-18,2026-02-18 01:55,v1.5,production run 0cef7360: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+789202,exaSPIM_789202_2026-02-03_15-09-59_processed_2026-02-15_23-47-18,2026-02-19 00:40,v1.5,production run 897be254: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+785688,exaSPIM_785688_2026-02-19_08-34-14_processed_2026-03-01_18-01-02,2026-03-24 06:54,v1.5,production run 50a626aa: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+786053,exaSPIM_786053_2026-03-20_17-40-00_processed_2026-03-26_19-04-34,2026-03-31 04:15,v1.5,production run 1c22cd5d: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+788000,exaSPIM_788000_2026-04-03_18-39-54_processed_2026-04-14_13-06-22,2026-05-05 02:24,v1.5,production run 29cfb3d9: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+709839,exaSPIM_709839_2026-03-24_16-52-18_processed_2026-04-13_16-57-09,2026-05-05 03:03,v1.5,production run 366f022a: pipeline version 677eae5 mounts v1.5 at the v1.4 path
+773889,exaSPIM_773889_2026-04-10_18-43-33_processed_2026-04-26_11-15-02,2026-05-28 04:53,v1.5,production run f789274b: pipeline version f86266a mounts v1.5 at the v1.4 path
+820994,exaSPIM_820994_2026-05-05_15-43-26_processed_2026-05-20_16-45-09,2026-05-28 04:57,v1.5,production run ab5d1e7c: pipeline version f86266a mounts v1.5 at the v1.4 path
+822177,exaSPIM_822177_2026-04-24_17-36-07_processed_2026-05-04_09-30-27,2026-05-28 04:59,v1.5,production run 1f23675d: pipeline version f86266a mounts v1.5 at the v1.4 path
+773890,exaSPIM_773890_2026-04-07_19-21-46_processed_2026-04-25_14-31-51,2026-05-28 05:03,v1.5,"both candidate runs (12766091, d064ab5b) mounted v1.5 at the v1.4 path"
+822173,exaSPIM_822173_2026-04-17_17-59-39_processed_2026-04-27_09-24-33,2026-05-28 05:06,v1.5,production run d6b976d0: pipeline version f86266a mounts v1.5 at the v1.4 path
+822172,exaSPIM_822172_2026-04-14_17-08-17_processed_2026-04-26_21-59-02,2026-05-28 05:16,v1.5,production run c0898165: pipeline version f86266a mounts v1.5 at the v1.4 path
+826505,exaSPIM_826505_2026-04-28_17-23-29_processed_2026-05-06_08-44-13,2026-05-28 05:22,v1.5,production run f297a8e5: pipeline version f86266a mounts v1.5 at the v1.4 path
+653153,exaSPIM_653153_2026-04-21_15-15-43_processed_2026-05-03_18-43-46,2026-05-28 05:39,v1.5,production run 0218bc67: pipeline version f86266a mounts v1.5 at the v1.4 path
+822174,exaSPIM_822174_2026-04-28_17-04-08_processed_2026-05-04_15-41-37,2026-05-28 06:26,v1.5,production run a262d756: pipeline version f86266a mounts v1.5 at the v1.4 path
+786399,exaSPIM_786399_2026-04-14_17-47-27_processed_2026-04-27_17-20-10,2026-05-28 06:31,v1.5,production run 1e3cd4c0: pipeline version f86266a mounts v1.5 at the v1.4 path
+786396,exaSPIM_786396_2026-04-21_16-36-15_processed_2026-05-03_09-24-01,2026-05-29 02:04,v1.5,production run 7a07e183: pipeline version f86266a mounts v1.5 at the v1.4 path
+820993,exaSPIM_820993_2026-05-12_17-32-13_processed_2026-05-22_14-03-15,2026-05-29 02:05,v1.5,production run f7280647: pipeline version f86266a mounts v1.5 at the v1.4 path
+794492,exaSPIM_794492_2026-01-09_16-50-40_processed_2026-01-17_14-44-16,2026-05-29 02:05,v1.5,production run 669c034f: pipeline version f86266a mounts v1.5 at the v1.4 path
+822178,exaSPIM_822178_2026-04-03_19-07-07_processed_2026-04-16_13-16-45,2026-05-29 02:05,v1.5,production run be20b36c: pipeline version f86266a mounts v1.5 at the v1.4 path
+826504,exaSPIM_826504_2026-05-05_15-22-12_processed_2026-05-21_20-09-49,2026-05-29 03:44,v1.5,production run 17d50ac5: pipeline version f86266a mounts v1.5 at the v1.4 path
+786400,exaSPIM_786400_2026-04-07_18-36-08_processed_2026-04-28_17-49-09,2026-06-09 02:09,v1.5,production run 5768ffc3: pipeline version f86266a mounts v1.5 at the v1.4 path
+791116,exaSPIM_791116_2026-06-09_16-31-33_processed_2026-06-16_12-28-34,2026-06-23 20:59,v1.5,production run 69ba03e3: pipeline version f99a5cc mounts v1.5 at the v1.4 path
+826506,exaSPIM_826506_2026-05-19_14-00-17_processed_2026-06-04_14-18-27,2026-06-23 21:41,v1.5,production run 4edd0386: pipeline version f99a5cc mounts v1.5 at the v1.4 path
+822176,exaSPIM_822176_2026-05-20_18-37-38_processed_2026-06-04_14-20-05,2026-06-23 21:50,v1.5,production run b8f81c4d: pipeline version f99a5cc mounts v1.5 at the v1.4 path
+744782,exaSPIM_744782_2026-06-02_16-26-41_processed_2026-06-17_08-22-50,2026-07-03 02:13,v1.5,production run 38ad2c11: pipeline version f99a5cc mounts v1.5 at the v1.4 path
+826511,exaSPIM_826511_2026-06-02_15-10-47_processed_2026-06-18_07-33-16,2026-07-07 09:17,v1.5,production run bb8a7dd2: pipeline version 87d71dd mounts v1.5 at the v1.4 path
+730904,exaSPIM_730904_2026-05-29_15-37-21_processed_2026-06-04_14-22-12,2026-07-08 00:38,v1.5,production run 75ff855a: pipeline version 87d71dd mounts v1.5 at the v1.4 path
+819682,exaSPIM_819682_2026-06-23_17-01-50_processed_2026-07-04_11-12-09,2026-07-10 01:00,v1.5,production run 24bf6337: pipeline version c6bcf05 mounts v1.5 at the v1.4 path
+841260,exaSPIM_841260_2026-07-07_15-13-51_processed_2026-07-26_09-25-11,2026-07-31 04:04,v1.5,production run 689a8a74: pipeline version c6bcf05 mounts v1.5 at the v1.4 path
+823508,exaSPIM_823508_2026-06-16_17-14-14_processed_2026-07-02_15-22-37,2026-07-31 04:16,v1.5,production run b5da3e63: pipeline version c6bcf05 mounts v1.5 at the v1.4 path
+851474,exaSPIM_851474_2026-07-10_15-23-22_processed_2026-07-21_13-59-36,2026-07-31 04:58,v1.5,production run 7d83e5cc: pipeline version c6bcf05 mounts v1.5 at the v1.4 path
+826509,exaSPIM_826509_2026-05-12_18-03-50_processed_2026-05-22_14-04-22,2026-08-04 23:10,v1.5,production run deb33900: pipeline version c6bcf05 mounts v1.5 at the v1.4 path
+709220,exaSPIM_709220_2026-06-09_18-28-35_processed_2026-08-04_08-36-44,2026-08-26 01:45,v1.5,production run d768389f: pipeline version c6bcf05 mounts v1.5 at the v1.4 path

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -e
+# App Panel order: mode, subjects, dry_run_dir
+if [ "${1#-}" = "${1:-}" ]; then
+  args=()
+  [ -n "${1:-}" ] && args+=(--mode "${1}")
+  [ -n "${2:-}" ] && args+=(--subjects "${2}")
+  [ -n "${3:-}" ] && args+=(--dry-run-dir "${3}")
+  set -- ${args[@]+"${args[@]}"}
+fi
+python -u main.py "$@"

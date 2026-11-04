@@ -1,0 +1,137 @@
+{
+ "709220": {
+  "dataset": "exaSPIM_709220_2026-06-09_18-28-35_processed_2026-08-04_08-36-44",
+  "steps": {
+   "Image atlas alignment - 25 um": [
+    0.02025,
+    0.027,
+    0.02025
+   ],
+   "Image atlas alignment - 10 um": [
+    0.010125,
+    0.0135,
+    0.010125
+   ]
+  }
+ },
+ "730904": {
+  "dataset": "exaSPIM_730904_2026-05-29_15-37-21_processed_2026-06-04_14-22-12",
+  "steps": {
+   "Image atlas alignment - 25 um": [
+    0.02025,
+    0.02025,
+    0.027
+   ],
+   "Image atlas alignment - 10 um": [
+    0.010125,
+    0.010125,
+    0.0135
+   ]
+  }
+ },
+ "744782": {
+  "dataset": "exaSPIM_744782_2026-06-02_16-26-41_processed_2026-06-17_08-22-50",
+  "steps": {
+   "Image atlas alignment - 25 um": [
+    0.02025,
+    0.02025,
+    0.027
+   ],
+   "Image atlas alignment - 10 um": [
+    0.010125,
+    0.010125,
+    0.0135
+   ]
+  }
+ },
+ "819682": {
+  "dataset": "exaSPIM_819682_2026-06-23_17-01-50_processed_2026-07-04_11-12-09",
+  "steps": {
+   "Image atlas alignment - 25 um": [
+    0.02025,
+    0.02025,
+    0.027
+   ],
+   "Image atlas alignment - 10 um": [
+    0.010125,
+    0.010125,
+    0.0135
+   ]
+  }
+ },
+ "823508": {
+  "dataset": "exaSPIM_823508_2026-06-16_17-14-14_processed_2026-07-02_15-22-37",
+  "steps": {
+   "Image atlas alignment - 25 um": [
+    0.02025,
+    0.027,
+    0.02025
+   ],
+   "Image atlas alignment - 10 um": [
+    0.010125,
+    0.0135,
+    0.010125
+   ]
+  }
+ },
+ "826509": {
+  "dataset": "exaSPIM_826509_2026-05-12_18-03-50_processed_2026-05-22_14-04-22",
+  "steps": {
+   "Image atlas alignment - 25 um": [
+    0.02025,
+    0.027,
+    0.02025
+   ],
+   "Image atlas alignment - 10 um": [
+    0.010125,
+    0.0135,
+    0.010125
+   ]
+  }
+ },
+ "826511": {
+  "dataset": "exaSPIM_826511_2026-06-02_15-10-47_processed_2026-06-18_07-33-16",
+  "steps": {
+   "Image atlas alignment - 25 um": [
+    0.02025,
+    0.02025,
+    0.027
+   ],
+   "Image atlas alignment - 10 um": [
+    0.010125,
+    0.010125,
+    0.0135
+   ]
+  }
+ },
+ "841260": {
+  "dataset": "exaSPIM_841260_2026-07-07_15-13-51_processed_2026-07-26_09-25-11",
+  "steps": {
+   "Image atlas alignment - 25 um": [
+    0.02025,
+    0.027,
+    0.02025
+   ],
+   "Image atlas alignment - 10 um": [
+    0.010125,
+    0.0135,
+    0.010125
+   ]
+  }
+ },
+ "851474": {
+  "dataset": "exaSPIM_851474_2026-07-10_15-23-22_processed_2026-07-21_13-59-36",
+  "steps": {
+   "Image atlas alignment - 25 um": [
+    0.02025,
+    0.027,
+    0.02025
+   ],
+   "Image atlas alignment - 10 um": [
+    0.010125,
+    0.0135,
+    0.010125
+   ]
+  }
+ }
+}

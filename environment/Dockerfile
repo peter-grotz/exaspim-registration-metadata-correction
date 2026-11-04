@@ -1,0 +1,9 @@
+ARG REGISTRY_HOST
+FROM $REGISTRY_HOST/codeocean/mambaforge3:23.1.0-4-python3.10.12-ubuntu22.04
+
+ARG DEBIAN_FRONTEND=noninteractive
+ARG AWS_ACCESS_KEY_ID
+ARG AWS_DEFAULT_REGION
+ARG AWS_SECRET_ACCESS_KEY
+
+RUN pip install -U --no-cache-dir boto3==1.35.36
